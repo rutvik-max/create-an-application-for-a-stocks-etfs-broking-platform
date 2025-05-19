@@ -1,0 +1,2 @@
+# create-an-application-for-a-stocks-etfs-broking-platform
+Developed a stock market app with features like real-time data, search suggestions, recent history, and paginated listings using the Alpha Vantage API. Implemented caching with expiration, handled loading, error, and empty states, and supported Dark/Light Mode. Used Hilt for dependency injection and followed a modular, maintainable architecture. 
